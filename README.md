@@ -1,3 +1,9 @@
+# O evento
+O banco BV, um dos maiores bancos do país, está promovendo o Hacka Dados BV 2022, que promete reunir profissionais, pesquisadores e estudantes ligados ao desenvolvimento de ciência de dados, novas tecnologias e soluções de negócios.
+
+https://hackabv.com.br/
+
+
 # BV Renova
 BV Renova é uma ferramenta de análise de perfil de cliente que utiliza inteligência para gerar Scripts Ideais de Abordagens (SIA) para otimizar o trabalho dos colaboradores do BV e mapear toda a jornada do cliente.
 
