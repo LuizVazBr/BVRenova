@@ -3,6 +3,10 @@ O banco BV, um dos maiores bancos do país, está promovendo o Hacka Dados BV 20
 
 https://hackabv.com.br/
 
+# Identidade visual - Logotipo
+
+![bv-renova-600x600](https://user-images.githubusercontent.com/110358231/182050678-dc0b5939-80fe-4b97-8879-cec9621aa8ec.png)
+
 
 # BV Renova
 BV Renova é uma ferramenta de análise de perfil de cliente que utiliza inteligência para gerar Scripts Ideais de Abordagens (SIA) para otimizar o trabalho dos colaboradores do BV e mapear toda a jornada do cliente.
