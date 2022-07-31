@@ -30,6 +30,13 @@ Assim, quando estiver discando para o cliente, a aplicação mostra em tela, o r
 
 Isto torna o atendimento exclusivo e objetivo.
 
+![bv-renova-01](https://user-images.githubusercontent.com/110358231/182050267-95624e1a-a17e-4290-a8af-b0cd1ec0188e.png)
+
+![bv-renova-02](https://user-images.githubusercontent.com/110358231/182050277-653b2cdb-9639-474c-b993-b764f8795b93.png)
+
+![bv-renova-03](https://user-images.githubusercontent.com/110358231/182050279-7121cceb-6908-4f85-a80d-528047810ea3.png)
+
+![bv-renova-04](https://user-images.githubusercontent.com/110358231/182050300-9ee781bd-66d0-46a4-824a-3817e2934d9e.png)
 
 # A ideia inicial
 Inicialmente pensamos em criar um automatizador de reclamações e sugestões com dados extras oriundos do relato do cliente. Queríamos buscar a jornada inteira para entender como agir antes mesmo do momento de buscar a renovação (D-35 e D-20).
