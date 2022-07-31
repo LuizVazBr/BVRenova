@@ -38,3 +38,9 @@ Inicialmente pensamos em criar um automatizador de reclamações e sugestões co
 PHP<br>
 Javascript<br>
 Python
+
+# O time
+Aurelius Oliveira<br>
+Keila<br>
+Luiz Vaz<br>
+Marina Lima<br>
