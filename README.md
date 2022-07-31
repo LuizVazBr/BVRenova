@@ -6,3 +6,7 @@ Os clientes são categorizados e recebem um atendimento único e personalizado, 
 O BV começa a entender claramente como alcançar melhores índices de renovação. Após análise de dados, verificamos que estão bastante baixos.
 O SIA determina um peso e quando não obtém sucesso com a renovação do cliente, reformula o Script automaticamente, aguardando aprovação.
 
+# Tecnologia
+PHP
+Javascript
+Python
