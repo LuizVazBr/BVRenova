@@ -28,6 +28,13 @@ As intruções de abordagem serão mensuradas e estarão disponíveis sempre que
 A geração de Scripts é feita de forma automática e pode ser interligada a central telefônica.
 Assim, quando estiver discando para o cliente, a aplicação mostra em tela, o roteiro a seguir de acordo com o SIA.
 
+O quão saudável está a relação entre o BV e o cliente leva em consideração alguns fatores. 
+
+O nível de satisfação define após análise, uma nota entre 1 e 5. 
+1: Um novo Script pode ser elaborado para tentar reverter.
+2 - 3: Ações adicionais serão necessárias e a atualização do Script.
+4 - 5: Relacionamento saudável é próximo do ideal.
+
 Isto torna o atendimento exclusivo e objetivo.
 
 ![bv-renova-01](https://user-images.githubusercontent.com/110358231/182050267-95624e1a-a17e-4290-a8af-b0cd1ec0188e.png)
