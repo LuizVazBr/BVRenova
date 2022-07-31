@@ -1,4 +1,4 @@
-# Table of contents
+# Índice
 
 * [BV Renova](README.md)
 
