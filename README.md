@@ -7,6 +7,6 @@ O BV começa a entender claramente como alcançar melhores índices de renovaç�
 O SIA determina um peso e quando não obtém sucesso com a renovação do cliente, reformula o Script automaticamente, aguardando aprovação.
 
 # Tecnologia
-PHP
-Javascript
+PHP<br>
+Javascript<br>
 Python
