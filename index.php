@@ -105,6 +105,8 @@
 
                                     <div class="form-inner-area">
                                         <form name="cadastro" id="camposLogin" method="POST">
+                                            <input type="hidden" id="type_ID" name="type_ID" value="">
+                                            <input type="hidden" id="data_ID" name="data_ID" value="">
                                             <input type="email" name="email" id="email" class="form-control required" style="text-transform: lowercase;display:none;" placeholder="Informe o email de cadastro *" autocomplete="off" required>
                                             <input type="text" name="phone" id="phone" class="form-control required" style="display:none;" placeholder="Qual o número de telefone cadastrado *" autocomplete="off">
                                         </form>
