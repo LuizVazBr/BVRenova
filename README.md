@@ -59,6 +59,6 @@ Python
 
 # O time
 Aurelius Oliveira<br>
-Keila<br>
+Keila Garcia Lopes<br>
 Luiz Vaz<br>
 Marina Lima<br>
