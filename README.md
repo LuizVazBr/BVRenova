@@ -49,6 +49,10 @@ Isto torna o atendimento exclusivo e objetivo.
 
 ![bv-renova-04](https://user-images.githubusercontent.com/110358231/182050300-9ee781bd-66d0-46a4-824a-3817e2934d9e.png)
 
+
+![resultado-bvrenova](https://user-images.githubusercontent.com/110358231/182054256-d798fd32-6929-4cc1-bde0-a48389748acb.png)
+
+
 # A ideia inicial
 Inicialmente pensamos em criar um automatizador de reclamações e sugestões com dados extras oriundos do relato do cliente. Queríamos buscar a jornada inteira para entender como agir antes mesmo do momento de buscar a renovação (D-35 e D-20).
 
